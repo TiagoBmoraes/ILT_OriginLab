@@ -1,0 +1,24 @@
+Script ILT Origin - versão 1.5
+Date: 10/01/2021
+
+Compatible with OriginPro 9 ou superior.
+
+Moraes, T.B., TRANSFORMADA INVERSA DE LAPLACE PARA ANÁLISE 
+DE SINAIS DE RESSONÂNCIA MAGNÉTICA NUCLEAR DE BAIXO CAMPO
+Química Nova, v. 44, n° 8, p. 1020-1027, 2021. 
+
+http://dx.doi.org/10.21577/0100-4042.20170751
+
+Vídeo-Aula:
+https://youtu.be/aobB016VhXs
+
+Developed by:
+Rafael Fenerick   / rafaelfene@gmail.com
+Tiago Bueno de Moraes / tiagobuemoraes@gmail.com
+
+Contato:
+Prof. Dr. Tiago Bueno de Moraes
+Universidade Federal de Minas Gerais (UFMG)
+Depart. de Química, Instituto de Ciências Exatas
+Belo Horizonte, MG, Brasil
+https://sites.google.com/view/tiagomoraes
